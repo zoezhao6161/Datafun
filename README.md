@@ -1,2 +1,1 @@
-# Datafun 
-# Kaggle Competition
+# Kaggle Competition 
